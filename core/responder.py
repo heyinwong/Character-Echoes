@@ -1,7 +1,8 @@
 import os
 from openai import OpenAI
+import streamlit as st
 
-api_key = os.getenv("OPENAI_API_KEY")
+api_key = os.getenv("OPENAI_API_KEY", st.secrets.get("OPENAI_API_KEY"))
 client = OpenAI(api_key=api_key)
 
 def get_openai_response(messages, model="gpt-3.5-turbo"):
