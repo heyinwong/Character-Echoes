@@ -23,11 +23,13 @@
 ```
 ├── app.py                 # Main Streamlit interface
 ├── core/
-│   ├── loader.py         # Load + search Shakespeare text files
-│   └── responder.py      # OpenAI response logic
+│   ├── loader.py         # Text loading, parsing, and quote searching
+│   └── responder.py      # OpenAI GPT response handling
 ├── utils/
-│   └── styles.py         # Custom medieval CSS
-├── data/                 # Plaintext Shakespeare plays (e.g. Macbeth.txt)
+│   └── styles.py         # Custom medieval-style Streamlit CSS
+├── data/
+│   ├── source/           # Plaintext Shakespeare plays (e.g., Macbeth.txt)
+│   └── character_prompts # Character instruction and tone files (.md)
 ├── requirements.txt
 └── README.md
 ```
@@ -40,11 +42,13 @@
 2. Use your own API key and save it onto your environmental variable:
 
 3. Install dependencies:
+
 ```bash
 pip install -r requirements.txt
 ```
 
 4. Run the app:
+
 ```bash
 streamlit run app.py
 ```
@@ -66,4 +70,5 @@ This app is ready to deploy on **Streamlit Cloud** or **Hugging Face Spaces**. J
 ---
 
 ## Author
- **Xixian Huang**
+
+**Xixian Huang**
