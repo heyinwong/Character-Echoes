@@ -156,7 +156,12 @@ if clear:
 
 # Generate response
 if respond and user_input.strip():
-    system_prompt = instruction + (" Use modern English." if mode == "Modern English" else " Speak in Shakespearean poetic style.")
+    if mode == "Modern English":
+        style_instruction = "You must respond in clear, simple, modern English."
+    else:
+        style_instruction = "You must respond in poetic, Shakespearean style, full of metaphors and rich language."
+
+    system_prompt = style_instruction + " " + instruction
     messages = [{"role": "system", "content": system_prompt}]
 
     for m in st.session_state.chat_history:
