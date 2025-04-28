@@ -88,6 +88,7 @@ streamlit run app.py
 
 - Can be deployed easily on **Streamlit Cloud** or **Hugging Face Spaces** or any choice, just need to modify some of the code.
 - Remember to safely configure your API Key via secret management tools.
+- Demo Link: https://legends-ai-roleplay.streamlit.app
 
 ---
 
