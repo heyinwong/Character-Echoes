@@ -66,7 +66,7 @@ The goal is to eventually extend this platform beyond Shakespeare to **mythologi
 
 ---
 
-## 🛠️ Setup (Local)
+## Setup (Local)
 
 1. Set your OpenAI API Key (either via environment variable or Streamlit Secrets):
 
@@ -79,6 +79,8 @@ export OPENAI_API_KEY=your-api-key
 ```bash
 streamlit run app.py
 ```
+
+3. If you want to add more novels or file you can add it onto the data foler.
 
 ---
 

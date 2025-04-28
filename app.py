@@ -18,7 +18,7 @@ if "previous_mode" not in st.session_state:
     st.session_state.previous_mode = "Shakespeare Mode"
 
 # Title
-st.markdown("<h1 class='bard-title'>Echoes of the Bard</h1>", unsafe_allow_html=True)
+st.markdown("<h1 class='bard-title'>Echoes of the Legends</h1>", unsafe_allow_html=True)
 
 # Top: Choose Main Mode
 st.markdown("<div class='bard-label'>Choose Mode:</div>", unsafe_allow_html=True)
