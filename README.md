@@ -1,8 +1,22 @@
 # Echoes of Legends
 
-**Echoes of Legends** is an AI-powered roleplay companion that allows users to interact with historical and fictional characters in an immersive conversational experience.
+**Echoes of Legends** is an AI-powered roleplay companion that enables users to interact with **historical** and **fictional characters** through immersive conversation. This project is built as an **MVP** to demonstrate the potential for **educational tools**, **interactive storytelling**, and **creative exploration** using AI-driven dialogue.
 
-This project is an MVP to showcase the potential for educational tools, interactive storytelling, and creative exploration through AI-driven dialogue.
+---
+
+## Purpose
+
+While many AI chatbots today rely on **pretrained presets** and **manual fine-tuning** for known characters, they often lack flexibility when it comes to **less popular figures** or **custom narratives**. This project seeks to address this gap by creating a flexible roleplay environment where users can:
+
+- Upload their own literary works, notes, or slides
+- Create or simulate _any_ character based on real or fictional content
+- Engage in conversations for **language learning**, **storytelling**, or **historical education**
+
+The goal is to eventually extend this platform beyond Shakespeare to **mythologies**, **historical figures**, **novels**, or **user-generated worlds** — offering new possibilities for:
+
+- Teachers could upload slides and have students interact with a simulated historical figure.
+- Writers could upload drafts and simulate conversations between characters.
+- Learners could engage with language, context, and creativity in real-time dialogue.
 
 ---
 
@@ -31,19 +45,6 @@ This project is an MVP to showcase the potential for educational tools, interact
 - "Hamlet, what do you think about fate?"
 - "Juliet, would you still love Romeo in today's world?"
 - "Talk to a custom character from my own novel."
-
----
-
-## Vision
-
-This project proves the idea that **literary or historical character simulations** can be valuable tools for:
-
-- Language learning and literary appreciation
-- Interactive storytelling and writing aids
-- Historical education and teaching
-- Role-playing games and immersive experiences
-
-The goal is to extend this approach beyond Shakespeare to other famous works, mythologies, or even user-generated worlds.
 
 ---
 
