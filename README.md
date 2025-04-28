@@ -26,7 +26,7 @@ The goal is to eventually extend this platform beyond Shakespeare to **mythologi
   Talk to Hamlet, Lady Macbeth, Juliet, Romeo, and more, each with their own unique speaking style and knowledge drawn from Shakespeare’s works.
 
 - **Custom Character Roleplay**  
-  Enter any character name appeared in Shakespearea's novels, and the AI will simulate that personality.
+  Enter any character from Shakespeare’s plays, and the AI will simulate their personality.
 
 - **Upload Your Own Story**  
   Upload a `.txt` file of your own writing (or other historical fiction), and create characters based on it! The AI's responses will be based solely on the uploaded content.
