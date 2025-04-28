@@ -97,6 +97,7 @@ streamlit run app.py
 - Shakespeare texts from [Project Gutenberg](https://www.gutenberg.org/)
 - Built using [Streamlit](https://streamlit.io)
 - Powered by [OpenAI API](https://platform.openai.com)
+- Background image by macrovectorok on Freepik
 
 ---
 
