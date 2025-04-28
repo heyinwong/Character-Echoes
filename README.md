@@ -6,11 +6,12 @@
 
 ## Purpose
 
-While many AI chatbots today rely on **pretrained presets** and **manual fine-tuning** for known characters, they often lack flexibility when it comes to **less popular figures** or **custom narratives**. Most of the products are prompt based and can not output accurate results when it comes to historical figures through quote searching or validation. This project seeks to address this gap by creating a flexible roleplay environment where users can:
+While many AI chatbots today rely on **predefined prompt** and **manual fine-tuning** for known characters, they often lack flexibility when it comes to **less popular figures** or **custom narratives**. Most of the products are purely prompt based and can not output accurate results when it comes to historical figures through quote searching or validation. This project seeks to address this gap by creating a flexible roleplay environment where users can:
 
 - Upload their own literary works, notes, or slides
 - Create or simulate _any_ character based on real or fictional content
 - Engage in conversations for **language learning**, **storytelling**, or **historical education**
+- Gain accurate results since the model will use the file as its knowledge base.
 
 Because I am a solo participant with limited time, I focused this project on Shakespeare and a custom character option — inspired by a dear friend who loves literature and Shakespeare. The final goal is to eventually extend this platform beyond Shakespeare to **mythologies**, **historical figures**, **novels**, or **user-generated worlds** — offering new possibilities for:
 
