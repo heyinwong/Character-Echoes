@@ -162,10 +162,12 @@ if respond and user_input.strip():
     for m in st.session_state.chat_history:
         messages.append({"role": "user" if m["role"] == "user" else "assistant", "content": m["text"]})
 
-    matches = search_quotes(play_text, user_input)
-    if matches:
-        quote_context = "\n\n".join(matches)
-        messages.append({"role": "system", "content": f"Relevant lines:\n\n{quote_context}"})
+    # Only inject quotes in Ask the Bard mode
+    if story_source == "Shakespeare" and interaction_mode == "Ask the Bard":
+        matches = search_quotes(play_text, user_input)
+        if matches:
+            quote_context = "\n\n".join(matches)
+            messages.append({"role": "system", "content": f"Relevant lines:\n\n{quote_context}"})
 
     messages.append({"role": "user", "content": user_input})
 
