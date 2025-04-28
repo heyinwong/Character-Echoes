@@ -6,7 +6,7 @@
 
 ## Purpose
 
-While many AI chatbots today rely on **pretrained presets** and **manual fine-tuning** for known characters, they often lack flexibility when it comes to **less popular figures** or **custom narratives**. This project seeks to address this gap by creating a flexible roleplay environment where users can:
+While many AI chatbots today rely on **pretrained presets** and **manual fine-tuning** for known characters, they often lack flexibility when it comes to **less popular figures** or **custom narratives**. Most of the products are prompt based and can not output accurate results when it comes to historical figures through quote searching or validation. This project seeks to address this gap by creating a flexible roleplay environment where users can:
 
 - Upload their own literary works, notes, or slides
 - Create or simulate _any_ character based on real or fictional content
