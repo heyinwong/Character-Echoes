@@ -1,6 +1,6 @@
 # Echoes of Legends
 
-**Echoes of Legends** is an AI-powered roleplay companion that enables users to interact with **historical** and **fictional characters** through immersive conversation. This project is built as an **MVP** to demonstrate the potential for **educational tools**, **interactive storytelling**, and **creative exploration** using AI-driven dialogue.
+**Echoes of Legends** is an AI-powered roleplay companion that enables users to interact with **historical** and **fictional characters** through immersive conversation. This project is built as an **MVP** to demonstrate the potential for **educational tools**, **interactive storytelling**, and **creative exploration** using AI-driven dialogue. 
 
 ---
 
@@ -12,7 +12,7 @@ While many AI chatbots today rely on **pretrained presets** and **manual fine-tu
 - Create or simulate _any_ character based on real or fictional content
 - Engage in conversations for **language learning**, **storytelling**, or **historical education**
 
-The goal is to eventually extend this platform beyond Shakespeare to **mythologies**, **historical figures**, **novels**, or **user-generated worlds** — offering new possibilities for:
+Because I am a solo participant with limited time, I focused this project on Shakespeare and a custom character option — inspired by a dear friend who loves literature and Shakespeare. The final goal is to eventually extend this platform beyond Shakespeare to **mythologies**, **historical figures**, **novels**, or **user-generated worlds** — offering new possibilities for:
 
 - Teachers could upload slides and have students interact with a simulated historical figure.
 - Writers could upload drafts and simulate conversations between characters.
