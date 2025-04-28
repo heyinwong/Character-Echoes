@@ -1,6 +1,6 @@
 # Character Echoes
 
-**Character Echoes** is an AI-powered roleplay companion that enables users to interact with **historical** and **fictional characters** through immersive conversation. This project is built as an **MVP** to demonstrate the potential for **educational tools**, **interactive storytelling**, and **creative exploration** using AI-driven dialogue. 
+**Character Echoes** is an AI-powered roleplay companion that enables users to interact with **historical** and **fictional characters** through immersive conversation. This project is built as an MVP to demonstrate the potential for **educational tools**, **interactive storytelling**, and **creative exploration** using AI-driven dialogue. 
 
 ---
 
